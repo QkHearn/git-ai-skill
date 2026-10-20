@@ -1,0 +1,21 @@
+SKILL.md
+  s_d280b0efbbc15d::t_35e2b993ad2fc0 1-138
+reference.md
+  s_d280b0efbbc15d::t_a25b0f5214376e 1-117
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "5.30.6",
+  "base_commit_sha": "6ac09f98d00cdc24a79aef9496e21ecf2f86c538",
+  "prompts": {},
+  "sessions": {
+    "s_d280b0efbbc15d": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "8efcac04-e24e-46b2-b701-79ece0aa1c78",
+        "model": "unknown"
+      },
+      "human_author": "Hearn <liuqiankun11@huawei.com>"
+    }
+  }
+}
